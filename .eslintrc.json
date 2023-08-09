@@ -1,0 +1,7 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    // Các quy tắc tùy chỉnh nếu muốn
+    // "no-unused-vars": "off" // Tắt rule no-unused-vars
+  }
+}
